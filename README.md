@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @stormmmmmmmm (Storm)
+- 👋 Hi, I’m @stormaw07 (Storm)
 - 👀 I’m interested in programing, computer hardware an developing. 
 - 🌱 I’m currently learning how to use the terminal and a bunch of different commands you can run in it.
 - 😄 Pronouns: He / Him
