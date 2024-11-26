@@ -6,5 +6,5 @@
 
 - Some of my prior coding projects are:
 - A text-based story game coded in python with multiple choice that lead to different outcomes
-- Multiple websites made in HTML, CSS and Java
+- Multiple websites made in HTML, CSS and JavaScript
 - A 2D top-down game im currently working on, using Godot for programming and Asperite for art
