@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stormaw07 (Storm)
 - 👀 I’m interested in programing, computer hardware an developing. 
-- 🌱 I’m currently learning how to use the terminal and a bunch of different commands you can run in it.
+- 🌱 I’m currently working on a project using teh Spotify API
 - 😄 Pronouns: He / Him
 - Age: I'm 17 years old.
 
